@@ -1,0 +1,13 @@
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.banner-text {
+    position:absolute;
+    margin: 0 auto;
+    top: 300px;
+}

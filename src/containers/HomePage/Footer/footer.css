@@ -1,0 +1,7 @@
+.footer-container {
+    color: white;
+    height:50px;
+    background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+    text-align: center;
+    padding-top: 10px;
+}

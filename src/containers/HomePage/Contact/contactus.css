@@ -1,0 +1,8 @@
+.contact-us-container {
+    min-height: 250px;
+    padding-bottom: 20px;
+}
+
+.contact-us-container .row {
+    margin: 0;
+}

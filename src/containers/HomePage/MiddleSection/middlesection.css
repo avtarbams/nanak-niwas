@@ -1,0 +1,16 @@
+.middlesection-container{
+    padding: 20px 0 20px 0;
+} 
+
+
+.middlesection-container .carousel-indicators li {
+    border: 1px solid orange;
+} 
+
+.middlesection-container .carousel-control.left {
+    display: none;
+}
+
+.middlesection-container .carousel-control.right {
+    display: none;
+}

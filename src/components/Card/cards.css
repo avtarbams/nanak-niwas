@@ -1,0 +1,20 @@
+.card-container {
+    height: 300px;
+    border-bottom: solid 1px #dfdfdf;
+    background-color: white;
+    border-radius: 16px;
+}
+
+
+.card-title {
+    padding: 10px;
+    font-size: 18px;
+    color: orange;
+}
+
+
+.card-subtitle {
+    padding: 10px;
+    font-size: 16px;
+    color: grey;
+}
